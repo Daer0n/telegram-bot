@@ -1,0 +1,5 @@
+*\__pycashe__
+.idea 
+main.py
+venv
+pyvenv.cfg
