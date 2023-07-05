@@ -2,7 +2,8 @@
 ## About telegram-bot
 
 ```
-telegram bot on Python in implementation Model of a garden plot, which involves growing plants in a garden plot, depending on natural conditions and harmful factors
+Telegram bot on Python in implementation Model of a garden plot, which involves growing plants in a garden plot, 
+depending on natural conditions and harmful factors
 ```
 
 ## Install
